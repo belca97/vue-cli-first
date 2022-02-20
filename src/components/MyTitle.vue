@@ -1,7 +1,7 @@
 <template>
 
     <div>
-        <h1>Ciao questa è la mia prima esperienza con Vue CLI</h1>
+        <h1>Ciao questa è la mia prima esperienza con Vue CLI!</h1>
     </div>
     
 </template>
